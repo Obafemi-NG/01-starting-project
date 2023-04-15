@@ -1,0 +1,20 @@
+.notification {
+  width: 100%;
+  height: fit-content;
+  padding: 10px 0;
+}
+.error {
+  background-color: red;
+}
+.pending {
+  background-color: #f7d060;
+}
+.success {
+  background-color: green;
+}
+.title,
+.message {
+  color: white;
+  margin: 0;
+  text-align: center;
+}
